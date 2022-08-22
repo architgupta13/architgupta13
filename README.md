@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
-<h3 align="center">Knows a "bit" or two about computers. Running only because I don't wanna stand in queue for coffee.</h3>
+<h3 align="center">Knows a "bit" or two about computers. Into running because I don't wanna stand in queue for caffeine.</h3>
 
 - 🔭 I’m currently working on [creating a boilerplate for web microservices in Go](https://github.com/architgupta13/go-microservice-boilerplate)
 
