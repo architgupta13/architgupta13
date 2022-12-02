@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [creating a boilerplate for web microservices in Go](https://github.com/architgupta13/go-microservice-boilerplate)
 
-- 🌱 I’m currently learning **ReactJS and Ruby on Rails**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/architgupta13](https://github.com/architgupta13)
 
