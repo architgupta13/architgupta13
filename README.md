@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gupta.archit13@gmail.com**
 
-- 📄 Know about my experiences [t.ly/SBYkc](t.ly/SBYkc)
+- 📄 Know about my experiences [t.ly/SBYkc](https://t.ly/SBYkc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
